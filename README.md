@@ -1,3 +1,5 @@
+Student Name:Lusungu Gondwe
+Student ID: 2504692582
 Question 2
 (i) Challenging HTML Elements
 One of the most challenging elements I worked with was the <a> (anchor) tag. I initially had difficulty adding links using the website name, so I solved this by directly pasting the full URL into the href attribute. The second challenge was the <img> tag, where I struggled to display images correctly. I overcame this by downloading the images and saving them in the same folder as my HTML file, which allowed them to load properly. Another challenge was using paragraph <p> elements to describe my movies, as I needed to organize three different paragraphs clearly. The <div> element was also challenging when grouping my movies according to genre, but I managed to use it to structure my content properly. Lastly, the <span> element was a bit tricky at first, but I eventually used it to group small pieces of text within larger content.
